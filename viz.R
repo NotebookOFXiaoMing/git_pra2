@@ -6,3 +6,7 @@ penguins %>%
   geom_histogram()
 
 # hi everyone
+
+library(ggplot2)
+
+iris %>% colnames()
